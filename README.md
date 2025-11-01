@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Awais khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web developer from Pakistan</h3>
 
 <p align="left"> <a href="https://twitter.com/@awaiskh32928864" target="blank"><img src="https://img.shields.io/twitter/follow/@awaiskh32928864?logo=twitter&style=for-the-badge" alt="@awaiskh32928864" /></a> </p>
 
